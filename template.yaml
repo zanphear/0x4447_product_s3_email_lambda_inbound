@@ -7,5 +7,5 @@ Resources:
     Properties:
       Handler: index.handler
       MemorySize: 128
-      Runtime: nodejs8.10
+      Runtime: nodejs10.x
       Timeout: 3
